@@ -1,6 +1,8 @@
 import AboutComponent from "@/components/AboutComponent";
+import CatalogSwiperSection from "@/components/CatalogSwiperSection";
 import CatalogueSection from "@/components/CatalogueSection";
 import CompanySection from "@/components/CompanySection";
+import ContactSection from "@/components/ContactSection";
 import HeroSection from "@/components/ui/HeroSection";
 import Image from "next/image";
 
@@ -11,6 +13,8 @@ export default function Home() {
       <CompanySection />
       <AboutComponent />
       <CatalogueSection />
+      <CatalogSwiperSection />
+      <ContactSection />
    </>
   );
 }

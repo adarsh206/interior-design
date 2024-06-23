@@ -32,7 +32,7 @@ const template = ({ children }) => {
 
         </span>
 
-        <div className='h-[2500px]'></div>
+
     </>
   )
 }
