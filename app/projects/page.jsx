@@ -31,7 +31,7 @@ const projects = [
 const page = () => {
   return (
     <div>
-      <div className="bg-[url('/image/backgroundproject.jpg')] bg-center bg-cover">
+      <div className="bg-[url('./image/backgroundproject.jpg')] bg-center bg-cover">
         <h1 className='container py-64 text-6xl font-bold tracking-widest text-pink-600'>Our Projects</h1>
       </div>
 
