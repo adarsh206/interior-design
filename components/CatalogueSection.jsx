@@ -8,7 +8,7 @@ const CatalogueSection = () => {
         id: "01",
         category: "BEDROOM SETUP",
         title: "Cossy Bedroom Setup",
-        image: "/image/badroom.jpg",
+        image: "./image/badroom.jpg",
         description: "family bedroom with a clean and comfortable design for your family.",
         
     },
@@ -16,7 +16,7 @@ const CatalogueSection = () => {
         id: "02",
         category: "KITCHEN SETUP",
         title: "Neat & Clean Kitchen",
-        image: "/image/kitchen1.jpg",
+        image: "./image/kitchen1.jpg",
         description: "family kitchen room with a clean and comfortable design for your family.",
         
     },
@@ -24,7 +24,7 @@ const CatalogueSection = () => {
         id: "03",
         category: "DRAWING SETUP",
         title: "Family Drawing Room",
-        image: "/image/drowing.jpg",
+        image: "./image/drowing.jpg",
         description: "family drawing room with a clean and comfortable design for your family.",
         
     },
@@ -32,7 +32,7 @@ const CatalogueSection = () => {
         id: "04",
         category: "LIVING SETUP",
         title: "Clean Family Room",
-        image: "/image/living.jpg",
+        image: "./image/living.jpg",
         description: "family living room with a clean and comfortable design for your family.",
         
     },

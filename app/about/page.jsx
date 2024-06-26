@@ -47,7 +47,7 @@ const page = () => {
           style={{scale}}
           ref={ref}
           className='w-full'>
-            <Image src="/image/gallery1123.jpg"
+            <Image src="./image/gallery1123.jpg"
             width={700}
             height={700}
             />
@@ -97,7 +97,7 @@ const page = () => {
             className='border-2 border-primary'>
               <div className='p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
               hover:-translate-y-3 hover:-translate-x-3'>
-                <Image src="/image/profile2.jpg" 
+                <Image src="./image/profile2.jpg" 
                 width={200}
                 height={200}
                 alt=''
@@ -117,7 +117,7 @@ const page = () => {
             className='border-2 border-primary'>
               <div className='p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
               hover:-translate-y-3 hover:-translate-x-3'>
-                <Image src="/image/profile1.jpg" 
+                <Image src="./image/profile1.jpg" 
                 width={200}
                 height={200}
                 alt=''
@@ -137,7 +137,7 @@ const page = () => {
             className='border-2 border-primary'>
               <div className='p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
               hover:-translate-y-3 hover:-translate-x-3'>
-                <Image src="/image/profile3.jpg" 
+                <Image src="./image/profile3.jpg" 
                 width={200}
                 height={200}
                 alt=''

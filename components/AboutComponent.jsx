@@ -15,7 +15,7 @@ const AboutComponent = () => {
             variants={titleVariants}
             >
                 <Image 
-                src="/image/aboutfront.png"
+                src="./image/aboutfront.png"
                 width={900}
                 height={500}
                 alt="About"

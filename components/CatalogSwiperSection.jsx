@@ -67,7 +67,7 @@ export default function CatalogSwiperSection(){
             >
                 <SwiperSlide>
                     <Image 
-                    src='/image/swiper1.jpg'
+                    src='./image/swiper1.jpg'
                     alt='Swiper'
                     width={520}
                     height={220}
@@ -76,7 +76,7 @@ export default function CatalogSwiperSection(){
                 </SwiperSlide>
                 <SwiperSlide>
                 <Image 
-                    src='/image/swiper2.jpg'
+                    src='./image/swiper2.jpg'
                     alt='Swiper'
                     width={520}
                     height={220}
@@ -85,7 +85,7 @@ export default function CatalogSwiperSection(){
                 </SwiperSlide>
                 <SwiperSlide>
                 <Image 
-                    src='/image/swiper3.jpg'
+                    src='./image/swiper3.jpg'
                     alt='Swiper'
                     width={520}
                     height={220}
@@ -94,7 +94,7 @@ export default function CatalogSwiperSection(){
                 </SwiperSlide>
                 <SwiperSlide>
                 <Image 
-                    src='/image/swiper4.jpg'
+                    src='./image/swiper4.jpg'
                     alt='Swiper'
                     width={520}
                     height={220}
@@ -103,7 +103,7 @@ export default function CatalogSwiperSection(){
                 </SwiperSlide>
                 <SwiperSlide>
                 <Image 
-                    src='/image/swiper5.jpg'
+                    src='./image/swiper5.jpg'
                     alt='Swiper'
                     width={520}
                     height={220}
