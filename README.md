@@ -28,7 +28,12 @@ Build a Interior Design Website with the help of Next.js 14, Tailwind Css, Frame
 
 
 
+# How To Use this project:
 
+1. First download this repository into your local system.
+2. then open in any code editor like vscode.
+3. then download all the dependencies present in the package.json file.
+4. and then run project in any browser like chrome it will start running your project.
 
 
 
