@@ -27,6 +27,10 @@ Build a Interior Design Website with the help of Next.js 14, Tailwind Css, Frame
 ![image](https://github.com/adarsh206/interior-design/assets/76390366/f4d9342e-d70c-44b9-84ba-273cc075c38b)
 
 
+# Project Overview:
+
+1. In the very above section of the website there is a website name in the left side and in the right side navigation is there for different section like about, gallery, projects, contact etc.
+2. Below that hero section is there in the left side website description is written and in the right side hero image is there.
 
 # How To Use this project:
 
